@@ -33,7 +33,7 @@ export default function login({navigation}) {
           <Text style={{ color: "#fff"}}>X</Text>
         </RemoveButton>   
       </Form>
-      <SubmitButton>
+      <SubmitButton onPress={() => navigation.replace("Home")}>
         <Text style={{ color: "#fff"}}>Login</Text>
       </SubmitButton>
       <VersionContent>
