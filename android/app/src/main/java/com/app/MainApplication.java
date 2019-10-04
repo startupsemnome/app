@@ -1,4 +1,4 @@
-package com.app;
+package br.com.app.resourcemanager;
 
 import android.app.Application;
 import android.util.Log;
