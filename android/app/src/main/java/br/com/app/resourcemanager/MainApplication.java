@@ -11,6 +11,8 @@ import com.microsoft.codepush.react.CodePush;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
+import com.facebook.react.BuildConfig;
+
 
 import java.util.List;
 
