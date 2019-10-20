@@ -1,4 +1,3 @@
 <resources>
-	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">SqMNgU9W9sxnE-oiUYh-FTLzEivVQCUZ02sO_</string>
-    <string name="app_name">Resource Manager</string>
+    <string name="app_name">Hello App Display Name</string>
 </resources>
